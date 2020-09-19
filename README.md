@@ -8,9 +8,8 @@
 - 💬 Ask me about `any`
 - 📫 How to reach me: ...
 
-![Twitter Follow](https://img.shields.io/twitter/follow/AkamFoad?style=social)
-<span style=margin-left:2rem; />
-![GitHub followers](https://img.shields.io/github/followers/akamfoad?label=Follow%20%40akamfoad&style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/AkamFoad?style=social)](https://twitter.com/AkamFoad)
+[![GitHub followers](https://img.shields.io/github/followers/akamfoad?label=Follow%20%40akamfoad&style=social)](https://github.com/akamfoad)
 
 <br />
 
