@@ -12,6 +12,8 @@
   
 📫 How to reach me: ...
 
+[![akamfoad.dev](IMAGE)](https://akamfoad.dev)
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/AkamFoad?style=social)](https://twitter.com/AkamFoad)
   
 [![GitHub followers](https://img.shields.io/github/followers/akamfoad?label=Follow%20%40akamfoad&style=social)](https://github.com/akamfoad)
